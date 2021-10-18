@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: auto;
+}
+
+.p-3 {
+  padding: 1.5em;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
